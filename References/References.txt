@@ -1,0 +1,24 @@
+hx711(ADC module)
+	https://www.youtube.com/watch?v=d8EYR9R-zEs
+	https://www.youtube.com/watch?v=S12Mp8gDJmI
+
+Laod cell
+	https://www.youtube.com/watch?v=nGUpzwEa4vg
+	https://www.youtube.com/watch?v=lWFiKMSB_4M
+	https://en.wikipedia.org/wiki/Load_cell
+
+em18(rfid module)
+	https://www.youtube.com/watch?v=4mXsaFyxG7Y
+
+arduino uno
+	https://www.youtube.com/watch?v=_ItSHuIJAJ8
+
+arduino on breadboard
+	https://www.youtube.com/watch?v=npc3uzEVvc0
+	https://www.youtube.com/watch?v=J3DYgzRvLT8
+
+esp8266(wifi module)
+	https://www.youtube.com/watch?v=p06NNRq5NTU
+
+UART
+serial to ttl
